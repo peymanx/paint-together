@@ -1,0 +1,26 @@
+{
+  "name": "paint-together",
+  "version": "1.0.0",
+  "description": "paint together all over the world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socketio",
+    "express",
+    "nodejs",
+    "peymanx"
+  ],
+  "author": "Peyman Majidi",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
